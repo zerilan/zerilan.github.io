@@ -1,0 +1,92 @@
+﻿{
+  "type": "array",
+  "background": "#200",
+  "margin": "0",
+  "content": [
+    {
+      "type": "array",
+      "dropshadow": true,
+      "orientation": "vertical",
+      "content": [
+        {
+					"type": "array",
+					"orientation": "horizontal",
+					"margin": "0,0,0,0",
+					"content": [
+						{
+							"type": "array",
+							"orientation": "horizontal",
+							"margin": "0,0,0,0",
+							"content": [
+								{
+									"type": "itemgrid",
+									"h_alignment": "center",
+									"item_margin": "1,1",
+									"rows": [
+										[ "tablet1", "tablet2", "tablet3", "tablet4" ],
+										[ "pyramid", "shrine", "trench", "falls" ],
+										[ "walse", "steamship", "sub", "bridge" ],
+										[ "adamantite", "branch", "hiryuu", "bracelet"],
+										[ "antibarrier", "fire", "moogle", "bait"]
+									]
+								}
+							]
+						},
+						{
+              "type": "array",
+              "orientation": "horizontal",
+              "margin": "0,0,0,0",
+              "content": [
+                //LINHA
+                { 
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "rows": [
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+                    [ "linhaa" ],
+										[ "linhaa" ],
+										[ "linhaa" ],
+										[ "linhaa" ],
+                    [ "linhaa" ]
+                  ]
+                }
+              ]
+            },
+						{
+							"type": "array",
+							"orientation": "horizontal",
+							"margin": "-35,0,0,0",
+							"content": [
+								{
+									"type": "itemgrid",
+									"h_alignment": "center",
+									"item_margin": "1,1",
+									"rows": [
+										["wingraptorx", "karlibosx", "sirenx", "magisax", "galurax"],
+										["liquidflamex", "ironclawx", "sandwormx", "adamantx", "shivax"],
+										["byblosx", "solcannonx", "archaeavisx", "ifritx", "crayclawx"],
+										["chimbrainx", "titanx", "puroborosx", "gilga1x", "gilga2x"],
+										["tyrasaurusx", "antlionx", "gogox", "abductorx", "hiryuuplantx"],
+										["gilgaenkix", "atomosx", "carbunklex", "gilga4x", "guardianx"],
+										["merugenex", "omniscientx", "minotaurusx", "leviathanx", "stalkerx"],
+										["ramuhx", "golemx", "shoatx", "gargoylex", "tritonx"],
+										["odinx", "bahamutx", "calofisterix", "apandax", "azulmagiax"],
+										["catastrophx", "halicarnassusx", "twintaniax", "necrophobex"]
+									]
+								}
+							]
+						}
+					]
+				}
+      ]
+    }
+  ]
+}
+
+// boots, (canSpinSpeed), bottle, somaria, bombs, mirror, (pearl, fakeflute), flippers

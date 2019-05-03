@@ -1,0 +1,1106 @@
+﻿[
+/*
+	START OF ITEMS ADDED FOR MAP TRACKER
+*/
+  {
+    "name": "linver",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/linver.png",
+        "codes": "linver"
+      }
+    ]
+  },
+  { 
+	"name": "Armor",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/armor.png",
+			"codes": "armor"
+		}
+	]
+  },
+  { 
+	"name": "Weapon",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/weapon.png",
+			"codes": "weapon"
+		}
+	]
+  },
+  { 
+	"name": "Black Magic",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/bmag.png",
+			"codes": "bmag"
+		}
+	]
+  },  
+  { 
+	"name": "White Magic",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/wmag.png",
+			"codes": "wmag"
+		}
+	]
+  },
+  { 
+	"name": "Dimen Magic",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/dmag.png",
+			"codes": "dmag"
+		}
+	]
+  },  
+  { 
+	"name": "Relic",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/relic.png",
+			"codes": "relic"
+		}
+	]
+  },
+  { 
+	"name": "Consumable",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/consumable.png",
+			"codes": "consumable"
+		}
+	]
+  },
+  { 
+	"name": "Job Crystal",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/crystal.png",
+			"codes": "crystal"
+		}
+	]
+  },  
+  { 
+	"name": "Ability",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/ability.png",
+			"codes": "ability"
+		}
+	]
+  },
+  { 
+	"name": "Other/Multiple",
+	"type": "progressive",
+	"allow_disabled": false,
+	"stages": [
+		{
+			"img": "images/other.png",
+			"codes": "other"
+		}
+	]
+  },
+/*
+	END OF ITEMS ADDED FOR MAP TRACKER
+*/
+
+  {
+    "name": "linha",
+    "type": "progressive",
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/linha.png",
+        "codes": "linhaa"
+      }
+    ]
+  },
+
+
+	// Tablet 1
+  {
+    "name": "tablet1",
+    "type": "toggle",
+    "img": "images/tablet1_alt.png",
+    "codes": "tablet1"
+  },
+  
+  // Tablet 2
+  {
+    "name": "tablet2",
+    "type": "toggle",
+    "img": "images/tablet2_alt.png",
+    "codes": "tablet2"
+  },
+  
+  // Tablet 3
+  {
+    "name": "tablet3",
+    "type": "toggle",
+    "img": "images/tablet3_alt.png",
+    "codes": "tablet3"
+  },
+  
+  // Tablet 4
+  {
+    "name": "tablet4",
+    "type": "toggle",
+    "img": "images/tablet4_alt.png",
+    "codes": "tablet4"
+  },
+  
+  // Pyramid Page
+  {
+    "name": "pyramid",
+    "type": "toggle",
+    "img": "images/pyramid_page2.png",
+    "codes": "pyramid"
+  },
+  
+  // Shrine Page
+  {
+    "name": "shrine",
+    "type": "toggle",
+    "img": "images/shrine_page2.png",
+    "codes": "shrine"
+  },
+  
+  // Trench Page
+  {
+    "name": "trench",
+    "type": "toggle",
+    "img": "images/trench_page2.png",
+    "codes": "trench"
+  },
+  
+  // Falls Page
+  {
+    "name": "falls",
+    "type": "toggle",
+    "img": "images/falls_page2.png",
+    "codes": "falls"
+  },
+  
+  // Walse Key
+  {
+    "name": "walse",
+    "type": "toggle",
+    "img": "images/walse_key2.png",
+    "codes": "walse"
+  },
+  
+  // Steamship Key
+  {
+    "name": "steamship",
+    "type": "toggle",
+    "img": "images/steamship_key2.png",
+    "codes": "steamship"
+  },
+  
+  // Big Bridge Key
+  {
+    "name": "bridge",
+    "type": "toggle",
+    "img": "images/bridge_key2.png",
+    "codes": "bridge"
+  },
+  
+  // Submarine Key
+  {
+    "name": "sub",
+    "type": "toggle",
+    "img": "images/sub_key2.png",
+    "codes": "sub"
+  },
+  
+  // Canal Key
+  {
+    "name": "canal",
+    "type": "toggle",
+    "img": "images/canal_key2.png",
+    "codes": "canal"
+  },
+  
+  // Adamantite
+  {
+    "name": "adamantite",
+    "type": "toggle",
+    "img": "images/adamantite.png",
+    "codes": "adamantite"
+  },
+  
+  // Elder Branch
+  {
+    "name": "branch",
+    "type": "toggle",
+    "img": "images/branch.png",
+    "codes": "branch"
+  },
+  
+  // Hiryuu Call
+  {
+    "name": "hiryuu",
+    "type": "toggle",
+    "img": "images/hiryuu.png",
+    "codes": "hiryuu"
+  },
+  
+  // Bracelet
+  {
+    "name": "bracelet",
+    "type": "toggle",
+    "img": "images/bracelet.png",
+    "codes": "bracelet"
+  },
+  
+  // Antibarrier
+  {
+    "name": "antibarrier",
+    "type": "toggle",
+    "img": "images/antibarrier.png",
+    "codes": "antibarrier"
+  },
+
+  // Ifrit's Fire
+  {
+    "name": "fire",
+    "type": "toggle",
+    "img": "images/fire.png",
+    "codes": "fire"
+  },
+
+  // Moogle Suit
+  {
+    "name": "moogle",
+    "type": "toggle",
+    "img": "images/moogle.png",
+    "codes": "moogle"
+  },
+
+  // Sandworm Bait
+  {
+    "name": "bait",
+    "type": "toggle",
+    "img": "images/bait.png",
+    "codes": "bait"
+  },
+  
+  // Wing Raptor
+  {
+    "name": "wingraptor",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/wingraptor.png",
+    "codes": "wingraptor"
+  },
+
+  // Wing Raptor Check
+  {
+    "name": "wingraptor x",
+    "type": "toggle_badged",
+    "base_item": "wingraptor",
+    "img": "images/bosses/check.png",
+    "codes": "wingraptorx"
+  },
+	
+  // Karlabos
+  {
+    "name": "karlibos",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/karlibos.png",
+    "codes": "karlibos"
+  },
+
+  // Karlabos x
+  {
+    "name": "karlibos x",
+    "type": "toggle_badged",
+    "base_item": "karlibos",
+    "img": "images/bosses/check.png",
+    "codes": "karlibosx"
+  },
+	
+	// Siren
+  {
+    "name": "siren",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/siren.png",
+    "codes": "siren"
+  },
+
+  // siren x
+  {
+    "name": "siren x",
+    "type": "toggle_badged",
+    "base_item": "siren",
+    "img": "images/bosses/check.png",
+    "codes": "sirenx"
+  },
+	
+	// Magisa
+  {
+    "name": "magisa",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/magisa.png",
+    "codes": "magisa"
+  },
+
+  // magisa x
+  {
+    "name": "magisa x",
+    "type": "toggle_badged",
+    "base_item": "magisa",
+    "img": "images/bosses/check.png",
+    "codes": "magisax"
+  },
+	
+	// Galura
+  {
+    "name": "galura",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/galura.png",
+    "codes": "galura"
+  },
+  // galura x
+  {
+    "name": "galura x",
+    "type": "toggle_badged",
+    "base_item": "galura",
+    "img": "images/bosses/check.png",
+    "codes": "galurax"
+  },
+	
+	// LiquiFlame
+  {
+    "name": "liquidflame",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/liquidflame_alt.png",
+    "codes": "liquidflame"
+  },
+  // liquidflame x
+  {
+    "name": "liquidflame x",
+    "type": "toggle_badged",
+    "base_item": "liquidflame",
+    "img": "images/bosses/check.png",
+    "codes": "liquidflamex"
+  },
+	
+	// Iron Claw
+  {
+    "name": "ironclaw",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/ironclaw.png",
+    "codes": "ironclaw"
+  },
+  // ironclaw x
+  {
+    "name": "ironclaw x",
+    "type": "toggle_badged",
+    "base_item": "ironclaw",
+    "img": "images/bosses/check.png",
+    "codes": "ironclawx"
+  },
+	
+	// Sandworm
+  {
+    "name": "sandworm",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/sandworm.png",
+    "codes": "sandworm"
+  },
+  {
+    "name": "sandworm x",
+    "type": "toggle_badged",
+    "base_item": "sandworm",
+    "img": "images/bosses/check.png",
+    "codes": "sandwormx"
+  },
+	
+	// AdamanTiMi
+  {
+    "name": "adamant",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/adamant.png",
+    "codes": "adamant"
+  },
+  {
+    "name": "adamant x",
+    "type": "toggle_badged",
+    "base_item": "adamant",
+    "img": "images/bosses/check.png",
+    "codes": "adamantx"
+  },
+	
+	// Shiva
+  {
+    "name": "shiva",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/shiva.png",
+    "codes": "shiva"
+  },
+  {
+    "name": "shiva x",
+    "type": "toggle_badged",
+    "base_item": "shiva",
+    "img": "images/bosses/check.png",
+    "codes": "shivax"
+  },
+	
+	// Byblos
+  {
+    "name": "byblos",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/byblos.png",
+    "codes": "byblos"
+  },
+  {
+    "name": "byblos x",
+    "type": "toggle_badged",
+    "base_item": "byblos",
+    "img": "images/bosses/check.png",
+    "codes": "byblosx"
+  },
+	
+	// Sol Cannon
+  {
+    "name": "solcannon",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/solcannon.png",
+    "codes": "solcannon"
+  },
+  {
+    "name": "solcannon x",
+    "type": "toggle_badged",
+    "base_item": "solcannon",
+    "img": "images/bosses/check.png",
+    "codes": "solcannonx"
+  },
+	
+	// ArchaeAvis
+  {
+    "name": "archaeavis",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/archaeavis.png",
+    "codes": "archaeavis"
+  },
+  {
+    "name": "archaeavis x",
+    "type": "toggle_badged",
+    "base_item": "archaeavis",
+    "img": "images/bosses/check.png",
+    "codes": "archaeavisx"
+  },
+	
+	// Ifrit
+  {
+    "name": "ifrit",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/ifrit.png",
+    "codes": "ifrit"
+  },
+  {
+    "name": "ifrit x",
+    "type": "toggle_badged",
+    "base_item": "ifrit",
+    "img": "images/bosses/check.png",
+    "codes": "ifritx"
+  },
+	
+	// Cray Claw
+  {
+    "name": "crayclaw",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/crayclaw.png",
+    "codes": "crayclaw"
+  },
+  {
+    "name": "crayclaw x",
+    "type": "toggle_badged",
+    "base_item": "crayclaw",
+    "img": "images/bosses/check.png",
+    "codes": "crayclawx"
+  },
+	
+	// Chim Brain
+  {
+    "name": "chimbrain",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/chimbrain.png",
+    "codes": "chimbrain"
+  },
+  {
+    "name": "chimbrain x",
+    "type": "toggle_badged",
+    "base_item": "chimbrain",
+    "img": "images/bosses/check.png",
+    "codes": "chimbrainx"
+  },
+	
+	// Titan
+  {
+    "name": "titan",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/titan.png",
+    "codes": "titan"
+  },
+  {
+    "name": "titan x",
+    "type": "toggle_badged",
+    "base_item": "titan",
+    "img": "images/bosses/check.png",
+    "codes": "titanx"
+  },
+	
+	// Puroboros
+  {
+    "name": "puroboros",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/puroboros.png",
+    "codes": "puroboros"
+  },
+  {
+    "name": "puroboros x",
+    "type": "toggle_badged",
+    "base_item": "puroboros",
+    "img": "images/bosses/check.png",
+    "codes": "puroborosx"
+  },
+	
+	// Gilgamesh (1st)
+  {
+    "name": "gilga1",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gilga1_alt.png",
+    "codes": "gilga1"
+  },
+  {
+    "name": "gilga1 x",
+    "type": "toggle_badged",
+    "base_item": "gilga1",
+    "img": "images/bosses/check.png",
+    "codes": "gilga1x"
+  },
+	
+	// Gilgamesh (2nd)
+  {
+    "name": "gilga2",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gilga2_alt.png",
+    "codes": "gilga2"
+  },
+  {
+    "name": "gilga2 x",
+    "type": "toggle_badged",
+    "base_item": "gilga2",
+    "img": "images/bosses/check.png",
+    "codes": "gilga2x"
+  },
+	
+	// Tyrasaurus
+  {
+    "name": "tyrasaurus",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/tyrasaurus_alt.png",
+    "codes": "tyrasaurus"
+  },
+  {
+    "name": "tyrasaurus x",
+    "type": "toggle_badged",
+    "base_item": "tyrasaurus",
+    "img": "images/bosses/check.png",
+    "codes": "tyrasaurusx"
+  },
+	
+	// Antlion
+  {
+    "name": "antlion",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/antlion.png",
+    "codes": "antlion"
+  },
+  {
+    "name": "antlion x",
+    "type": "toggle_badged",
+    "base_item": "antlion",
+    "img": "images/bosses/check.png",
+    "codes": "antlionx"
+  },
+	
+	// Gogo
+  {
+    "name": "gogo",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gogo.png",
+    "codes": "gogo"
+  },
+  {
+    "name": "gogo x",
+    "type": "toggle_badged",
+    "base_item": "gogo",
+    "img": "images/bosses/check.png",
+    "codes": "gogox"
+  },
+	
+	// Abductor
+  {
+    "name": "abductor",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/abductor.png",
+    "codes": "abductor"
+  },
+  {
+    "name": "abductor x",
+    "type": "toggle_badged",
+    "base_item": "abductor",
+    "img": "images/bosses/check.png",
+    "codes": "abductorx"
+  },
+	
+	// HiryuuPlant
+  {
+    "name": "hiryuuplant",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/hiryuuplant_alt.png",
+    "codes": "hiryuuplant"
+  },
+  {
+    "name": "hiryuuplant x",
+    "type": "toggle_badged",
+    "base_item": "hiryuuplant",
+    "img": "images/bosses/check.png",
+    "codes": "hiryuuplantx"
+  },
+	
+	// Gilgamesh + Enkidou
+  {
+    "name": "gilgaenki",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gilgaenki_alt.png",
+    "codes": "gilgaenki"
+  },
+  {
+    "name": "gilgaenki x",
+    "type": "toggle_badged",
+    "base_item": "gilgaenki",
+    "img": "images/bosses/check.png",
+    "codes": "gilgaenkix"
+  },
+	
+	// Atmos
+  {
+    "name": "atomos",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/atomos.png",
+    "codes": "atomos"
+  },
+  {
+    "name": "atomos x",
+    "type": "toggle_badged",
+    "base_item": "atomos",
+    "img": "images/bosses/check.png",
+    "codes": "atomosx"
+  },
+	
+	// Carbunkle
+  {
+    "name": "carbunkle",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/carbunkle.png",
+    "codes": "carbunkle"
+  },
+  {
+    "name": "carbunkle x",
+    "type": "toggle_badged",
+    "base_item": "carbunkle",
+    "img": "images/bosses/check.png",
+    "codes": "carbunklex"
+  },
+	
+	// Gilgamesh (4th)
+  {
+    "name": "gilga4",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gilga4_alt.png",
+    "codes": "gilga4"
+  },
+  {
+    "name": "gilga4 x",
+    "type": "toggle_badged",
+    "base_item": "gilga4",
+    "img": "images/bosses/check.png",
+    "codes": "gilga4x"
+  },
+	
+	// Guardians
+  {
+    "name": "guardian",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/guardian_alt.png",
+    "codes": "guardian"
+  },
+  {
+    "name": "guardian x",
+    "type": "toggle_badged",
+    "base_item": "guardian",
+    "img": "images/bosses/check.png",
+    "codes": "guardianx"
+  },
+	
+	// Merugene
+  {
+    "name": "merugene",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/merugene.png",
+    "codes": "merugene"
+  },
+  {
+    "name": "merugene x",
+    "type": "toggle_badged",
+    "base_item": "merugene",
+    "img": "images/bosses/check.png",
+    "codes": "merugenex"
+  },
+	
+	// Omniscient
+  {
+    "name": "omniscient",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/omniscient.png",
+    "codes": "omniscient"
+  },
+  {
+    "name": "omniscient x",
+    "type": "toggle_badged",
+    "base_item": "omniscient",
+    "img": "images/bosses/check.png",
+    "codes": "omniscientx"
+  },
+	
+	// Minotauros
+  {
+    "name": "minotaurus",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/minotaurus.png",
+    "codes": "minotaurus"
+  },
+  {
+    "name": "minotaurus x",
+    "type": "toggle_badged",
+    "base_item": "minotaurus",
+    "img": "images/bosses/check.png",
+    "codes": "minotaurusx"
+  },
+	
+	// Leviathan
+  {
+    "name": "leviathan",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/leviathan.png",
+    "codes": "leviathan"
+  },
+  {
+    "name": "leviathan x",
+    "type": "toggle_badged",
+    "base_item": "leviathan",
+    "img": "images/bosses/check.png",
+    "codes": "leviathanx"
+  },
+	
+	// Stalker
+  {
+    "name": "stalker",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/stalker.png",
+    "codes": "stalker"
+  },
+  {
+    "name": "stalker x",
+    "type": "toggle_badged",
+    "base_item": "stalker",
+    "img": "images/bosses/check.png",
+    "codes": "stalkerx"
+  },
+	
+	// Odin
+  {
+    "name": "odin",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/odin.png",
+    "codes": "odin"
+  },
+  {
+    "name": "odin x",
+    "type": "toggle_badged",
+    "base_item": "odin",
+    "img": "images/bosses/check.png",
+    "codes": "odinx"
+  },
+	
+	// Triton / Neregeid / Phobos
+  {
+    "name": "triton",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/triton.png",
+    "codes": "triton"
+  },
+  {
+    "name": "triton x",
+    "type": "toggle_badged",
+    "base_item": "triton",
+    "img": "images/bosses/check.png",
+    "codes": "tritonx"
+  },
+	
+	// Bahamut
+  {
+    "name": "bahamut",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/bahamut.png",
+    "codes": "bahamut"
+  },
+  {
+    "name": "bahamut x",
+    "type": "toggle_badged",
+    "base_item": "bahamut",
+    "img": "images/bosses/check.png",
+    "codes": "bahamutx"
+  },
+	
+	// Gargoyles
+  {
+    "name": "gargoyle",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/gargoyle.png",
+    "codes": "gargoyle"
+  },
+  {
+    "name": "gargoyle x",
+    "type": "toggle_badged",
+    "base_item": "gargoyle",
+    "img": "images/bosses/check.png",
+    "codes": "gargoylex"
+  },
+	
+	// Calofisteri
+  {
+    "name": "calofisteri",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/calofisteri.png",
+    "codes": "calofisteri"
+  },
+  {
+    "name": "calofisteri x",
+    "type": "toggle_badged",
+    "base_item": "calofisteri",
+    "img": "images/bosses/check.png",
+    "codes": "calofisterix"
+  },
+	
+	// Apanda
+  {
+    "name": "apanda",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/apanda.png",
+    "codes": "apanda"
+  },
+  {
+    "name": "apanda x",
+    "type": "toggle_badged",
+    "base_item": "apanda",
+    "img": "images/bosses/check.png",
+    "codes": "apandax"
+  },
+	
+	// Azulmagia
+  {
+    "name": "azulmagia",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/azulmagia.png",
+    "codes": "azulmagia"
+  },
+  {
+    "name": "azulmagia x",
+    "type": "toggle_badged",
+    "base_item": "azulmagia",
+    "img": "images/bosses/check.png",
+    "codes": "azulmagiax"
+  },
+	
+	// Catastroph
+  {
+    "name": "catastroph",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/catastroph.png",
+    "codes": "catastroph"
+  },
+  {
+    "name": "catastroph x",
+    "type": "toggle_badged",
+    "base_item": "catastroph",
+    "img": "images/bosses/check.png",
+    "codes": "catastrophx"
+  },
+	
+	// Halicarnassus
+  {
+    "name": "halicarnassus",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/halicarnassus.png",
+    "codes": "halicarnassus"
+  },
+  {
+    "name": "halicarnassus x",
+    "type": "toggle_badged",
+    "base_item": "halicarnassus",
+    "img": "images/bosses/check.png",
+    "codes": "halicarnassusx"
+  },
+	
+	// Twintania
+  {
+    "name": "twintania",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/twintania.png",
+    "codes": "twintania"
+  },
+  {
+    "name": "twintania x",
+    "type": "toggle_badged",
+    "base_item": "twintania",
+    "img": "images/bosses/check.png",
+    "codes": "twintaniax"
+  },
+	
+	// Necrophobe
+  {
+    "name": "necrophobe",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/necrophobe.png",
+    "codes": "necrophobe"
+  },
+  {
+    "name": "necrophobe x",
+    "type": "toggle_badged",
+    "base_item": "necrophobe",
+    "img": "images/bosses/check.png",
+    "codes": "necrophobex"
+  },
+	
+		// Ramuh
+  {
+    "name": "ramuh",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/ramuh.png",
+    "codes": "ramuh"
+  },
+  {
+    "name": "ramuh x",
+    "type": "toggle_badged",
+    "base_item": "ramuh",
+    "img": "images/bosses/check.png",
+    "codes": "ramuhx"
+  },
+	
+		// Golem
+  {
+    "name": "golem",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/golem.png",
+    "codes": "golem"
+  },
+  {
+    "name": "golem x",
+    "type": "toggle_badged",
+    "base_item": "golem",
+    "img": "images/bosses/check.png",
+    "codes": "golemx"
+  },
+	
+		// Shoat
+  {
+    "name": "shoat",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bosses/shoat.png",
+    "codes": "shoat"
+  },
+  {
+    "name": "shoat x",
+    "type": "toggle_badged",
+    "base_item": "shoat",
+    "img": "images/bosses/check.png",
+    "codes": "shoatx"
+  }
+ ] 
+  
