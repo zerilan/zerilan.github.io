@@ -2,7 +2,7 @@
   "name": "Final Fantasy Randomizer",
   "packages": [
     {
-      "name": "FF1 Randomizer - Key Items and Locations",
+      "name": "FF1 Randomizer - Key Items and Locations (obsolete, please remove)",
       "author": "Zerilan",
       "game_name": "Final Fantasy Randomizer",
       "version": "1.1.0.0",
